@@ -1,0 +1,16 @@
+{
+  "name": "daily_node",
+  "version": "1.0.0",
+  "description": "Tosmic is learning node, init?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "mine": "node"
+  },
+  "author": "Tosmic",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
